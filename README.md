@@ -29,4 +29,4 @@ A simple and interactive Birthday Greeting Card created with HTML and CSS.
 - `:visited`
 - `::before`
 - `::after`
-- '::target'
+  
